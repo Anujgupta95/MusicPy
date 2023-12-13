@@ -1,0 +1,4 @@
+bcrypt
+fonttools
+flask
+flask_sqlalchemy
